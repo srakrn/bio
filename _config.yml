@@ -57,6 +57,7 @@ plugins:
 
 author:
   name: "Sirakorn Lamyai"
+  bio: "Part time tinkerer, full time Data Engineer, father of a Cavalier."
   avatar: "/assets/images/sl.jpg"
   links:
     - label: "GitHub"
