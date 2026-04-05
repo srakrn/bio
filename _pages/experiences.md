@@ -24,7 +24,7 @@ Formulated the very first AWS Data Engineering team for Adastra Thailand and Ada
 ## Data Engineer Development Lead
 <ul>
   <li class="small"><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> March 2022 — Current</li>
-  <li class="small"><i class="fas fa-fw fa-building" aria-hidden="true"></i> Mark Anthony Group (via Adastra)</li>
+  <li class="small"><i class="fas fa-fw fa-building" aria-hidden="true"></i><a href="https://markanthony.com/">Mark Anthony Group</a> (via Adastra)</li>
 </ul>
 
 Designed, implemented, and developed the entire data lake solutions from 'green field' with multiple data sources. This includes non-functional requirements such as automated deployment pipeline, IaC, and SLA monitoring. Also acting as a local offshore ScrumMaster.
