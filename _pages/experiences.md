@@ -48,4 +48,4 @@ Multiple development from PoC of Data Warehousing solutions to full-stream Data 
   </li>
 </ul>
 
-Worked on SSVEP Brain-Controlled Interfaces. Co-researcher for <em>Towards an Integrated Approach to Simultaneously Estimating the Frequency and Amplitude Modulations of SSVEP Signals from Consumer-grade EEG</em> and <em>Ensemble Drowsiness Biomarkers for Office-based Workload with Mouse and Keyboard Data</em>.
+Worked on SSVEP Brain-Controlled Interfaces. Co-researcher for <em><a href="https://ieeexplore.ieee.org/document/8926475">"A Single-Channel Consumer-Grade EEG Device for Brain–Computer Interface: Enhancing Detection of SSVEP and Its Amplitude Modulation"</em></a> and <a href="https://ieeexplore.ieee.org/document/8990236"><em>"Drowsiness Detection for Office-based Workload with Mouse and Keyboard Data"</em></a>.
