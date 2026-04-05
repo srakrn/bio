@@ -8,7 +8,7 @@ author_profile: false
 ## Practice Lead, Solutions and Expertise
 <ul>
   <li class="small"><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Oct 2023 — Current</li>
-  <li class="small"><i class="fas fa-fw fa-building" aria-hidden="true"></i> <a href="https://adastracorp.com/leadership">Adastra APAC & Americas (Global Delivery)</a></li>
+  <li class="small"><i class="fas fa-fw fa-building" aria-hidden="true"></i> <a href="https://adastracorp.com/leadership">Adastra APAC & Americas (Global Delivery), Leadership role</a></li>
 </ul>
 
 Semi-executive and management, focusing on driving Adastra’s core business of data consultancy. Indirect supervise teams of 40+ consultants spanning multiple technology competencies. Planned and launched new technical hiring assessments and evaluations.
@@ -16,7 +16,7 @@ Semi-executive and management, focusing on driving Adastra’s core business of 
 ## AWS Lead
 <ul>
   <li class="small"><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> March 2022 — Current</li>
-  <li class="small"><i class="fas fa-fw fa-building" aria-hidden="true"></i> <a href="https://adastracorp.com/">Adastra APAC & Americas (Global Delivery)</a></li>
+  <li class="small"><i class="fas fa-fw fa-building" aria-hidden="true"></i> <a href="https://adastracorp.com/">Adastra APAC & Americas (Global Delivery), Technical consulting role</a></li>
 </ul>
 
 Formulated the very first AWS Data Engineering team for Adastra Thailand and Adastra India, serving Adastra Group's customers starting from Canada then to Germany.
